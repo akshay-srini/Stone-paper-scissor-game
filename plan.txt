@@ -1,0 +1,27 @@
+3 buttons 
+{0-Rock, 1-paper, 2-scissor}
+
+rock function {
+    rock = 0
+    rock > scissor
+    rock < Paper
+    
+}
+
+
+
+
+function comparing {
+    cpuscore vs onclick function (rock)
+    cpuscore vs onlick function (Paper)
+    cpuscore vs onclick function (scissor)
+}
+
+maybe implement while loop (function endgame() {
+    if playerscore == 5
+        player wins
+    else cpuScore == 5
+        cpu wins
+})
+
+
